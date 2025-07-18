@@ -1,2 +1,3 @@
-# Data-Analysis
-Data Analysis Projects
+#Product Sales Data Analysis
+
+Power BI dashboard to analyze sales performance and profit distribution across products and regions. Includes a line chart to track monthly and yearly profit trends, helping spot seasonality and growth patterns over time,  visualization of profit by country across each product segment using a bar chart, where each bar represents a specific segment within a country, a world map visual to showcase geographic profit distribution, matrix of units of products sold under each segment. This sales data analysis project will serve as a decision-making companion for sales and strategy teams, revealing high-impact products, regional opportunities, and trends that shape profitability.
