@@ -4,4 +4,4 @@ Power BI dashboard to analyze sales performance and profit distribution across p
 
 Data from Microsoft: https://docs.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 
-Snapshots of the dashboard: 
+Snapshots of the dashboard: https://github.com/Stengun-Hunter/Data-Analysis/blob/main/Sales%20Dashboard%20Snapshot.png
